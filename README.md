@@ -1,4 +1,4 @@
-# PIzza_Sales_Report
+# PIzza_Sales_Report built using SQL + Excel + Power BI + Tableau + Python
 * Pizza Sales Analysis is a data analytics project that analyzes pizza store sales transactions to understand revenue, customer behavior, and sales trends.
 
 * The project calculates key KPIs such as Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, and Average Pizzas per Order.
