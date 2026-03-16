@@ -10,3 +10,5 @@
 * The project identifies top 5 best-selling pizzas and bottom 5 least-selling pizzas to help optimize the menu and marketing strategies.
 
 * Interactive data visualizations and dashboards are created using Python in Jupyter Notebook to provide insights and support business decision-making.
+
+Learned through the guided tutorials and hands-on practice from Youtube channel: Data Tutorials.
